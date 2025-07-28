@@ -1,4 +1,4 @@
-# Loan-Approval-Prediction-using-Machine-Learning
+# Loan Approval Prediction using Machine Learning
 ## Overview
 This project presents a Loan Approval Prediction System built with Python and machine learning. The aim is to predict whether or not a loan application will be approved, based on historical application data. Such predictive modeling is widely used in fintech and banking to automate and optimize decision-making processes.
 Features
