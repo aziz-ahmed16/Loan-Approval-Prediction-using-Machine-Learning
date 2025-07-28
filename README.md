@@ -58,15 +58,17 @@ You may download the dataset from Kaggle or from the repository and save it as l
 
 
 ## Requirements
--Python 3.x
--pandas
--numpy
--scikit-learn
--plotly
+- Python 3.x
+- pandas
+- numpy
+- scikit-learn
+- plotly
 
 ## Installation:
 
-<pre> ```bash pip install pandas numpy scikit-learn plotly ``` </pre>
+<pre> ```bash
+ pip install pandas numpy scikit-learn plotly
+ ``` </pre>
 
 ## Usage
 1. Clone this repository.
